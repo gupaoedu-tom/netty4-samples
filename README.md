@@ -1,6 +1,6 @@
 # 《Netty4核心原理与手写RPC框架实战》
 
-### $\color{#FF0000}{已全面开启预售！！！}$
+### 已全面开启预售！！！
 
 ### 京东购买链接：[https://item.jd.com/12829724.html](https://item.jd.com/12829724.html)
 ### 当当购买链接：[http://product.dangdang.com/28528192.html](http://product.dangdang.com/28528192.html)
