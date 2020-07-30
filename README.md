@@ -1,7 +1,5 @@
 # 《Netty4核心原理与手写RPC框架实战》
 
-### 已全面开启预售！！！
-
 ### 京东购买链接：[https://item.jd.com/12829724.html](https://item.jd.com/12829724.html)
 ### 当当购买链接：[http://product.dangdang.com/28528192.html](http://product.dangdang.com/28528192.html)
 
@@ -35,4 +33,4 @@
 ![image](https://github.com/gupaoedu-tom/resouce/blob/master/gupaoedu-tom-qrcode.png)
 
 ### 推荐《[Spring5核心原理与30个类手写实战](https://github.com/gupaoedu-tom/spring5-samples)》，4个月销量破万，连续占据畅销榜。
-### 下一本《[设计模式就该这样学](https://github.com/gupaoedu-tom/design-samples)》正在撰稿中，请关注...
+### 推荐《[设计模式就该这样学](https://github.com/gupaoedu-tom/design-samples)》已全面开启预售！！！
