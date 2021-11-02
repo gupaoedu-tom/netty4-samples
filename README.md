@@ -30,7 +30,7 @@
 　　自2019年《Spring 5核心原理与30个类手写实战》出版以来，深受广大读者喜爱，有些学员将此书作为学习的参考教材。为继续满足大家对技术的追求，借此机会将本人多年对Netty的研究笔记整理成书奉献给各位“汤粉”。
     在此，特别感谢责任编辑董英、李秀英及电子社的团队成员的付出，尤其在疫情期间，即使是远程办公也同样坚守岗位审稿至深夜。
 # 技术交流
-![image](https://github.com/gupaoedu-tom/resouce/blob/master/gupaoedu-tom-qrcode.png)
+![关注公众号Tom弹架构](https://user-images.githubusercontent.com/54272541/139790847-bbcccc8c-cd5e-4bdc-9b1b-bc923a9d4d99.png)
 
 ### 推荐《[Spring5核心原理与30个类手写实战](https://github.com/gupaoedu-tom/spring5-samples)》，4个月销量破万，连续占据畅销榜。
 ### 推荐《[设计模式就该这样学](https://github.com/gupaoedu-tom/design-samples)》已全面开启预售！！！
